@@ -1,0 +1,17 @@
+@media(max-width:767px){
+     
+      h5{
+        font-size: large;
+      }
+      p{
+        font-size: small;
+      }
+      a{
+        font-size: x-small;
+      }
+
+}
+.card:hover{
+     box-shadow: silver;
+     
+}
